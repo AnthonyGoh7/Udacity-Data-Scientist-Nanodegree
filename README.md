@@ -1,5 +1,4 @@
 # Udacity Data Scientist Nanodegree - Project: Write A Data Science Blog Post
-Udacity Data Scientist Nanodegree - Project: Write A Data Science Blog Post
 
 ## Overview
 The purpose of this project is to build up a data analystics capabilities, analyze data using the CRISP-DM process and to effectly communicate the results of the data analysis. 
